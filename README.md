@@ -1,7 +1,7 @@
 # auto-captions-bulk
 The script is a Python tool designed to enhance videos by automatically adding subtitles and a watermark. It utilizes audio transcription through the OpenAI API to generate subtitles, and then overlays them onto the video along with a customizable watermark. This automation simplifies the process of creating subtitled videos with branding.
 
-Requirements:
+# Requirements:
 Python 3.x installed on your system.
 Installation of the following Python packages:
 moviepy: For video editing functionalities.
@@ -16,7 +16,7 @@ Copy code
 pip install moviepy requests
 Ensure FFmpeg is installed: Make sure FFmpeg is installed and available in your system's PATH.
 
-Obtain an OpenAI API key: Get an API key from OpenAI and replace the placeholder API key ("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") in the script with your actual key.
+Obtain an OpenAI API key: Get an API key from OpenAI and replace the placeholder API key ("sk-key") in the script with your actual key.
 
 Prepare your input videos:
 
