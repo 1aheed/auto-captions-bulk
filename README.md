@@ -8,7 +8,10 @@ FFmpeg
 Obtain an OpenAI API key: Get an API key from OpenAI and replace the placeholder API key ("sk-key") in the script with your actual key.
 
 # Prepare your input videos:
+Create 2 new folders "input" and "output"
 Place the video files you want to process in a folder named "input" within the same directory as the script.
+Add your logo in png format (120x120px)
+Name the logo file "logo.png"
 
 # Run the script:
 Navigate to the directory containing the script.
