@@ -6,8 +6,8 @@ Python 3.x
 <br>FFmpeg
 
 # Run the script:
-Navigate to the directory containing the script
-<br>Create 2 new folders "input" and "output"
+Clone this repository
+<br>Navigate to the directory containing the script
 <br>Place the videos you want to process in folder "input"
 <br>Add your logo in png format in script folder (120x120px)
 <br>Name the logo file "logo.png"
