@@ -20,3 +20,6 @@ Obtain an OpenAI API key and replace the placeholder API key ("sk-key") in the s
 # Check the output:
 The processed videos with subtitles and watermark will be saved in a folder named "output" within the same directory as the script.
 By following these steps, you can easily use the script to enhance your videos with subtitles and watermark in an automated manner.
+
+# Donate
+https://nowpayments.io/donation/aheed
