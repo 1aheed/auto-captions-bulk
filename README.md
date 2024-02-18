@@ -3,11 +3,7 @@ The script is a Python tool designed to enhance videos by automatically adding s
 
 # Requirements:
 Python 3.x
-
-# How to Run:
-Install Python dependencies:
-1. pip install moviepy requests
-Ensure FFmpeg is installed: Make sure FFmpeg is installed and available in your system's PATH.
+FFmpeg
 
 Obtain an OpenAI API key: Get an API key from OpenAI and replace the placeholder API key ("sk-key") in the script with your actual key.
 
@@ -17,6 +13,7 @@ Place the video files you want to process in a folder named "input" within the s
 # Run the script:
 Navigate to the directory containing the script.
 Open a terminal or command prompt.
+pip install moviepy requests
 Run the script using the following command:
 python run.py
 
