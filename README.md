@@ -3,22 +3,19 @@ The script is a Python tool designed to enhance videos by automatically adding s
 
 # Requirements:
 Python 3.x
-FFmpeg
-
-Obtain an OpenAI API key: Get an API key from OpenAI and replace the placeholder API key ("sk-key") in the script with your actual key.
-
-# Prepare your input videos:
-Create 2 new folders "input" and "output"
-Place the video files you want to process in a folder named "input" within the same directory as the script.
-Add your logo in png format (120x120px)
-Name the logo file "logo.png"
+<br>FFmpeg
 
 # Run the script:
-Navigate to the directory containing the script.
-Open a terminal or command prompt.
-pip install moviepy requests
-Run the script using the following command:
-python run.py
+Navigate to the directory containing the script
+<br>Create 2 new folders "input" and "output"
+<br>Place the videos you want to process in folder "input"
+<br>Add your logo in png format in script folder (120x120px)
+<br>Name the logo file "logo.png"
+Obtain an OpenAI API key and replace the placeholder API key ("sk-key") in the script (run.py)
+<br>Open a terminal or command prompt.
+<br>pip install moviepy requests
+<br>Run the script using the following command:
+<br>python run.py
 
 # Check the output:
 The processed videos with subtitles and watermark will be saved in a folder named "output" within the same directory as the script.
