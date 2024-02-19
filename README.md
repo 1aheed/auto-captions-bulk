@@ -1,6 +1,9 @@
 # Auto-captions-bulk
 The script is a Python tool designed to enhance videos by automatically adding subtitles and a watermark. It utilizes audio transcription through the OpenAI API (whisper) to generate subtitles, and then overlays them onto the video along with a customizable watermark. This automation simplifies the process of creating subtitled videos with branding.
 
+# Demo
+https://github.com/1aheed/auto-captions-bulk/assets/85237766/2ee1d38a-f14a-44e8-af24-763be734044c
+
 # Requirements:
 Python 3.x
 <br>FFmpeg
